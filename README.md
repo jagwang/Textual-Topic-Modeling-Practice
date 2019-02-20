@@ -2,8 +2,9 @@
 
 ## Background
 Social scientific studies often involve human coders to read open-ended responses and code each response with numbers, so that follow-up statistical analysis can be employed. This type of method usually suffers several disadvantages.
-1.	Human coders can suffer fatigue and unreliability issues, which may result in unreliable coding for further analysis.
-2.	Human coders are usually cost inefficient and are harder to find compared to computers.
+1.	Human coders can suffer fatigue and unreliability issues, which may result in unreliable coding for further analysis.  
+2.	Human coders are usually cost inefficient and are harder to find compared to computers.  
+
 The present project aims at using machine learning technique to code textual responses. With minimal input and guidance, a machine can code the textual responses within seconds and with no fatigue and high reliability. The entire project consists of three part and two datasets I have collected in previous studies.
 First, I will employ the first dataset to test the LDA (Latent Dirichlet Allocation) method in abstracting topics from open-ended responses. The first step is to ensure that meaningful different topics can be recognized by the machine and there are distinctive different topics in the dataset. This is an insurance policy to make sure that scholars are making meaningful inference and usage with the programming.
 Second, I will use the same dataset to improve the procedure. In particular, I will use graphical illustrations to determine the number of salient topics in the corpus. And the significant words in each of the topics. In this part, meaningful interpretations of the results will also be provided, based on social scientific theories and research. 
