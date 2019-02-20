@@ -1,5 +1,5 @@
-# Final_Project_UCDSTA208_2018
-Final project for STA 208 in 2018
+# LDA Topic Modeling machine Learning
+
 ## Background
 Social scientific studies often involve human coders to read open-ended responses and code each response with numbers, so that follow-up statistical analysis can be employed. This type of method usually suffers several disadvantages.
 1.	Human coders can suffer fatigue and unreliability issues, which may result in unreliable coding for further analysis.
